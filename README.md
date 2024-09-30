@@ -17,8 +17,8 @@ Kami merancang sebuah website yang dapat diakses secara online, memudahkan admin
 ![WhatsApp Image 2024-09-30 at 12 24 16_58219cc5](https://github.com/user-attachments/assets/3ca4365b-3322-4342-8429-57357e065bfb)
 
 ## ERD
--
-## Class Diagram
 ![WhatsApp Image 2024-09-30 at 12 52 07_206b9e31](https://github.com/user-attachments/assets/454a388e-c7cc-446d-9419-acf22ff8e32b)
+## Class Diagram
+
 
 
