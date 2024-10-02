@@ -30,7 +30,9 @@ Kami merancang sebuah website yang dapat diakses secara online, memudahkan admin
 
 
 ## Rancangan
--Gambar
+# DATABASE
+![image](https://github.com/user-attachments/assets/99382c33-0da0-4844-a4df-b9ddd7d643f6)
+
 
 ## Koneksi
 -Gambar
