@@ -1,4 +1,4 @@
-# PBW_Kelompok-2
+![image](https://github.com/user-attachments/assets/d45cfdf0-e6ce-42b6-b28a-3af09e8fc372)# PBW_Kelompok-2
 
 ### Nama Anggota Kelompok:
 
@@ -57,15 +57,11 @@ Kami merancang sebuah website yang dapat diakses secara online, memudahkan admin
 ![image](https://github.com/user-attachments/assets/1c46ed17-3859-4a00-ac93-d480ea744d98)
 
 
-## Koneksi
--Gambar
-
-## Implementasi
--Gambar
 
 ## Testing
--Gambar
-
-## Dokumentasi
--Gambar
-
+![image](https://github.com/user-attachments/assets/afed2b11-9786-4931-b4d2-3be6b9134fe2)
+![image](https://github.com/user-attachments/assets/ebf207be-2c99-4906-8ba8-b7826e9555fe)
+![image](https://github.com/user-attachments/assets/ae4229d1-0119-4dc5-8cc2-da4d5411b83d)
+![image](https://github.com/user-attachments/assets/11efd364-e254-4444-a74d-792acdc2fcfc)
+![image](https://github.com/user-attachments/assets/dda13698-36f2-452d-ae19-ff565261deb9)
+![image](https://github.com/user-attachments/assets/8af2a6cd-c569-4216-86d7-0499fb5aaa9a)
