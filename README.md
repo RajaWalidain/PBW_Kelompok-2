@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/d45cfdf0-e6ce-42b6-b28a-3af09e8fc372)# PBW_Kelompok-2
-
 ### Nama Anggota Kelompok:
 
 - Malaekha Rafli Lindan Iskandar - 4522210010
