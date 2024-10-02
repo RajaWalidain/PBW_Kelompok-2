@@ -18,7 +18,8 @@ Kami merancang sebuah website yang dapat diakses secara online, memudahkan admin
 
 
 ## ERD
-![WhatsApp Image 2024-09-30 at 12 52 07_206b9e31](https://github.com/user-attachments/assets/454a388e-c7cc-446d-9419-acf22ff8e32b)
+![WhatsApp Image 2024-10-02 at 14 43 39_047c96b2](https://github.com/user-attachments/assets/de8a7c90-d0f0-4ec4-bb69-d30fbc03cc5f)
+
 
 ##  Cookies
 ![WhatsApp Image 2024-10-02 at 14 33 46_1a8e7e58](https://github.com/user-attachments/assets/84aa8b07-dc17-4eab-8549-c0de5184436c)
