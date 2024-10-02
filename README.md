@@ -14,7 +14,8 @@ Kami merancang sebuah website yang dapat diakses secara online, memudahkan admin
 # Penjelasan Usecase, ERD Diagram, Cookies, Session, Rancangan, Koneksi, Implementasi, Testing dan Dokumentasi
 ---
 ## Usecase
-![WhatsApp Image 2024-09-30 at 12 24 16_58219cc5](https://github.com/user-attachments/assets/3ca4365b-3322-4342-8429-57357e065bfb)
+![WhatsApp Image 2024-10-02 at 14 35 58_bc31d519](https://github.com/user-attachments/assets/586b3768-e666-483a-b6e6-4348db48f1f3)
+
 
 ## ERD
 ![WhatsApp Image 2024-09-30 at 12 52 07_206b9e31](https://github.com/user-attachments/assets/454a388e-c7cc-446d-9419-acf22ff8e32b)
