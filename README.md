@@ -20,7 +20,8 @@ Kami merancang sebuah website yang dapat diakses secara online, memudahkan admin
 ![WhatsApp Image 2024-09-30 at 12 52 07_206b9e31](https://github.com/user-attachments/assets/454a388e-c7cc-446d-9419-acf22ff8e32b)
 
 ##  Cookies
--Gambar
+![WhatsApp Image 2024-10-02 at 14 33 46_1a8e7e58](https://github.com/user-attachments/assets/84aa8b07-dc17-4eab-8549-c0de5184436c)
+
 
 ## Session
 ![WhatsApp Image 2024-10-02 at 14 34 02_56a18b84](https://github.com/user-attachments/assets/3b135b57-d126-46ab-9e78-b9d34a7a2d21)
